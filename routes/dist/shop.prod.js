@@ -1,1 +1,0 @@
-"use strict";var path=require("path"),express=require("express"),rootDir=require("../util/path"),adminData=require("./admin"),router=express.Router();router.get("/",function(r,e,t){var a=adminData.products;e.render("shop",{prods:a,pageTitle:"Shibuya",path:"/"})}),module.exports=router;
