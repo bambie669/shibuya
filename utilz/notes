@@ -1,0 +1,4 @@
+mongoDb connection link 
+##//
+
+'mongodb+srv://radu:hswd@cluster0.vygso.mongodb.net/shop?retryWrites=true&w=majority'

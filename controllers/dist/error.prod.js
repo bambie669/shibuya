@@ -1,1 +1,0 @@
-"use strict";exports.get404=function(t,e,s){e.status(404).render("404",{pageTitle:"Page Not Found"})};
