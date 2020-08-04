@@ -13,12 +13,10 @@
   "devDependencies": {
     "nodemon": "^1.18.3"
   },
-  
   "repository": {
-  "type": "git",
-  "url": "git@github.com:bambie669/shibuya.git"
-}
-  
+    "type": "git",
+    "url": "git@github.com:bambie669/shibuya.git"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
