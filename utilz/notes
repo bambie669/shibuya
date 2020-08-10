@@ -2,3 +2,8 @@ mongoDb connection link
 ##//
 
 'mongodb+srv://radu:hswd@cluster0.vygso.mongodb.net/shop?retryWrites=true&w=majority'
+
+
+
+      api_key:
+        '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'
